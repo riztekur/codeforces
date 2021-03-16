@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/1478/B
+
 for _ in range(int(input())):
     q,d = map(int, input().split())
     A = list(map(int, input().split()))
